@@ -37,7 +37,7 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, [
 
 curl_setopt($ch, CURLOPT_POSTFIELDS, '{
   "message": {
-    "token": "eI0HVK3180Gnpid-r4qcgA:APA91bFJhjtN759Gd6EnZfrl0Mfoc3XDYhyUjZMylS1Jn_PHk-ZDZvrnqb2LzT7JwoCLypo2dDqLuKC6eVGKKq3WISgdVg1H8ZdwNZeIevjHNRdUWd3hbT91-3nfWnkbLqxrL1ZEHAEm",
+    "token": "<PK>",
     "notification": {
       "title": "Background Message Title",
       "body": "Background message body",

@@ -1,5 +1,7 @@
 {
     "require": {
-        "google/auth": "^1.42"
+        "google/auth": "^1.42",
+        "guzzlehttp/guzzle": "^7.9",
+        "google/apiclient": "^2.17"
     }
 }
